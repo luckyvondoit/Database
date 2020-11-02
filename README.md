@@ -1,1 +1,2 @@
 - [SQLite教程](https://www.runoob.com/sqlite/sqlite-tutorial.html)
+- [SQL教程](https://www.runoob.com/sql/sql-tutorial.html)
